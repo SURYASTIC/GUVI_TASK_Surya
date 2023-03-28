@@ -5,7 +5,7 @@ The task is to develop a web application that allows users to create accounts, l
 ![image](https://user-images.githubusercontent.com/69417726/228193023-20f6921f-cf00-4238-be06-02c276dc297a.png)
 
 
-#Tech Stack Used:
+# Tech Stack Used:
 
 1. HTML
 2. CSS
